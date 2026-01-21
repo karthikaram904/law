@@ -10456,6 +10456,7 @@ html, body {
 }
 }
 @media (min-width: 800px) and (max-width: 1024px)
+{
   .logo-img {
   width: 50px !important;
   height: 50px !important;
