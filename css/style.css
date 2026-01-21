@@ -10460,7 +10460,8 @@ html, body {
   width: 50px !important;
   height: 50px !important;
 }
-  .ftco-navbar-light .navbar-brand {
+  .ftco-navbar-light .navbar-brand
+{
   color: #fff;
   font-size: 15px;
 }
